@@ -11,6 +11,7 @@
 本项目用于记录和展示数据分析的完整流程，包含数据清洗、探索性分析、特征工程和可视化报告。
 
 ## 📁 项目结构
+```
 Python-Data-Analysis/
 ├── data/ # 原始数据
 ├── notebooks/ # Jupyter Notebook
@@ -19,7 +20,7 @@ Python-Data-Analysis/
 │ ├── charts/ # 图表
 │ └── reports/ # 报告
 └── README.md
-
+```
 ## 🔧 技术栈
 
 | 工具 | 用途 |
